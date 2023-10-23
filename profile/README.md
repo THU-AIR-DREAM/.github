@@ -1,9 +1,7 @@
 # AIR-DREAM Lab
 :raised_hands: Welcome to AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab code repository! AIR-DREAM Lab is a research group at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/), Tsinghua University. Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, robust robotic control methods, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
 
-:fire: **We are hiring**: we are looking for postdocs and student interns. If you are interested in the research directions of data-driven decision-making, please feel free to contact us!
-
-Here, the current offline RL/IL algorithms and tools code repositories include (more to come):
+Current available offline RL/IL algorithms and tools/libraries in our code repository include:
 
 :dizzy: Algorithms:
 
