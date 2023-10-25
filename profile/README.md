@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 :dizzy: Algorithms:
 
+- [OMIGA: Offline Multi-Agent RL with Implicit Global-to-Local Value Regularization](https://github.com/AIR-DI/OMIGA)
 - [TSRL: Time-reversal Symmetry RL](https://github.com/AIR-DI/TSRL)
 - [H2O: Dynamics-Aware Hybrid Offline-and-Online Reinforcement Learning](https://github.com/AIR-DI/H2O)
 - [IVR: Offline RL with No OOD Actions](https://github.com/AIR-DI/IVR)
