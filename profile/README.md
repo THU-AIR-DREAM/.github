@@ -21,4 +21,5 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 :robot: Tools:
 
 - [D2C: Data-driven Control Library](https://github.com/AIR-DI/D2C)
+- [OneRL: Event-driven fully distributed reinforcement learning framework](https://github.com/AIR-DI/onerl)
 - [OpenChat: Open-source Language Models](https://github.com/AIR-DI/openchat)
