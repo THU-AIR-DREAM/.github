@@ -18,7 +18,7 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 - [MOPP: Model-Based Offline Planning](https://github.com/AIR-DI/MOPP)
 - [DeepThermal: Combustion Optimization for Thermal Power Generating Units](https://github.com/AIR-DI/DeepThermal)
 
-:robot: Tools/libraries:
+:robot: Tools/Libraries:
 
 - [D2C: Data-driven Control Library](https://github.com/AIR-DI/D2C)
 - [OneRL: Event-driven fully distributed reinforcement learning framework](https://github.com/AIR-DI/onerl)
