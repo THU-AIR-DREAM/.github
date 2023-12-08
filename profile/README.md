@@ -3,7 +3,7 @@
 
 Current available offline RL/IL algorithms and tools/libraries in our code repository include:
 
-:dizzy: Algorithms:
+Algorithms:
 
 - [PROTO: Iterative Policy Regularized Offline-to-Online Reinforcement Learning](https://github.com/AIR-DI/PROTO)
 - [OMIGA (NeurIPS 2023): Offline Multi-Agent RL with Implicit Global-to-Local Value Regularization](https://github.com/AIR-DI/OMIGA)
@@ -22,7 +22,7 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 
 
-:robot: Tools/Libraries:
+Tools/Libraries:
 
 - [D2C: Data-Driven Control Library](https://github.com/AIR-DI/D2C)
 - [OneRL: Event-Driven Fully Distributed Reinforcement Learning Framework](https://github.com/AIR-DI/onerl)
