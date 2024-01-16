@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 Algorithms:
 
+- [FISOR (ICLR 2024): Feasibility-Guided Safe Offline Reinforcement Learning](https://github.com/AIR-DI/FISOR)
 - [PROTO: Iterative Policy Regularized Offline-to-Online Reinforcement Learning](https://github.com/AIR-DI/PROTO)
 - [OMIGA (NeurIPS 2023): Offline Multi-Agent RL with Implicit Global-to-Local Value Regularization](https://github.com/AIR-DI/OMIGA)
 - [TSRL (NeurIPS 2023): Look Beneath the Surface: Exploiting Fundamental Symmetry for Sample-Efficient Offline RL](https://github.com/AIR-DI/TSRL)
