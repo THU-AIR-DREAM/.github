@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 Algorithms:
 
+- [QPA (ICLR 2024): Query-Policy Misalignment in Preference-Based Reinforcement Learning](https://github.com/AIR-DI/QPA)
 - [ODICE (ICLR 2024): Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update](https://github.com/AIR-DI/ODICE-Pytorch)
 - [FISOR (ICLR 2024): Feasibility-Guided Safe Offline Reinforcement Learning](https://github.com/AIR-DI/FISOR)
 - [PROTO: Iterative Policy Regularized Offline-to-Online Reinforcement Learning](https://github.com/AIR-DI/PROTO)
