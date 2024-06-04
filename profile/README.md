@@ -5,6 +5,8 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 Algorithms:
 
+- [IVM: Instruction-Guided Visual Masking](https://github.com/AIR-DI/IVM)
+- [DecisionNCE (ICML 2024): Embodied Multimodal Representations via Implicit Preference Learning](https://github.com/AIR-DI/DecisionNCE)
 - [QPA (ICLR 2024 spotlight): Query-Policy Misalignment in Preference-Based Reinforcement Learning](https://github.com/AIR-DI/QPA)
 - [ODICE (ICLR 2024 spotlight): Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update](https://github.com/AIR-DI/ODICE-Pytorch)
 - [FISOR (ICLR 2024): Safe Offline Reinforcement Learning with Feasibility-Guided Diffusion Model](https://github.com/AIR-DI/FISOR)
