@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 Algorithms:
 
+- [RSP: Recursive Skip-Step Planning](https://github.com/AIR-DI/RSP_JAX)
 - [IVM: Instruction-Guided Visual Masking](https://github.com/AIR-DI/IVM)
 - [DecisionNCE (ICML 2024): Embodied Multimodal Representations via Implicit Preference Learning](https://github.com/AIR-DI/DecisionNCE)
 - [QPA (ICLR 2024 spotlight): Query-Policy Misalignment in Preference-Based Reinforcement Learning](https://github.com/AIR-DI/QPA)
