@@ -5,8 +5,11 @@ Current available offline RL/IL algorithms and tools/libraries in our code repos
 
 Algorithms:
 
-- [RSP: Recursive Skip-Step Planning](https://github.com/AIR-DI/RSP_JAX)
-- [IVM: Instruction-Guided Visual Masking](https://github.com/AIR-DI/IVM)
+- [H2O+ (ICRA 2025): An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://github.com/AIR-DI/H2Oplus)
+- [UniAct: Universal Actions for Enhanced Embodied Foundation Models](https://github.com/AIR-DI/UniAct)
+- [Diffusion-Planner (ICLR 2025): Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://github.com/AIR-DI/Diffusion-Planner)
+- [RSP (AAAI 2025 oral): Recursive Skip-Step Planning](https://github.com/AIR-DI/RSP_JAX)
+- [IVM (NeurIPS 2025): Instruction-Guided Visual Masking](https://github.com/AIR-DI/IVM)
 - [DecisionNCE (ICML 2024): Embodied Multimodal Representations via Implicit Preference Learning](https://github.com/AIR-DI/DecisionNCE)
 - [QPA (ICLR 2024 spotlight): Query-Policy Misalignment in Preference-Based Reinforcement Learning](https://github.com/AIR-DI/QPA)
 - [ODICE (ICLR 2024 spotlight): Revealing the Mystery of Distribution Correction Estimation via Orthogonal-gradient Update](https://github.com/AIR-DI/ODICE-Pytorch)
