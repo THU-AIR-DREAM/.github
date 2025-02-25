@@ -1,13 +1,15 @@
 # AIR-DREAM Lab
-:raised_hands: Welcome to AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab code repository! AIR-DREAM is a research group at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/), Tsinghua University. Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, robust robotic control methods, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
+:raised_hands: Welcome to AIR-DREAM (Decision-making Research for Empowered AI Methods) Lab code repository! AIR-DREAM is a research group at [Institute for AI Industry Research (AIR)](https://air.tsinghua.edu.cn/en/), Tsinghua University. Our research focus is to develop advanced learning-based data-driven decision-making theories and practical technologies that are robust, generalizable, and deployable to tackle real-world challenges. We work on fundamental learning algorithms, embodied AI, optimization technologies for real-world AIoT systems, and data-driven decision-making tools & libraries.
 
-Current available offline RL/IL algorithms and tools/libraries in our code repository include:
+Current available offline RL/IL algorithms, embodied AI models, and tools/libraries in our code repository include:
 
 Algorithms:
 
+- [Robo-MUTUAL (ICRA 2025): Robotic Multimodal Task specifications via Unimodal Learning](https://github.com/AIR-DI/Robo_MUTUAL)
 - [H2O+ (ICRA 2025): An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://github.com/AIR-DI/H2Oplus)
 - [UniAct: Universal Actions for Enhanced Embodied Foundation Models](https://github.com/AIR-DI/UniAct)
-- [Diffusion-Planner (ICLR 2025): Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://github.com/AIR-DI/Diffusion-Planner)
+- [Diffusion-Planner (ICLR 2025 oral): Diffusion-Based Planning for Autonomous Driving with Flexible Guidance](https://github.com/AIR-DI/Diffusion-Planner)
+- [PSEC (ICLR 2025): Skill Expansion and Composition in Parameter Space](https://github.com/AIR-DI/PSEC)
 - [RSP (AAAI 2025 oral): Recursive Skip-Step Planning](https://github.com/AIR-DI/RSP_JAX)
 - [IVM (NeurIPS 2025): Instruction-Guided Visual Masking](https://github.com/AIR-DI/IVM)
 - [DecisionNCE (ICML 2024): Embodied Multimodal Representations via Implicit Preference Learning](https://github.com/AIR-DI/DecisionNCE)
