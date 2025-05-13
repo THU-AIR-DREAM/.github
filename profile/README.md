@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms, embodied AI models, and tools/librar
 
 Algorithms:
 
+- [LBP (ICML 2025): Efficient Robotic Policy Learning via Latent Space Backward Planning](https://github.com/AIR-DI/LBP)
 - [UniAct (CVPR 2025): Universal Actions for Enhanced Embodied Foundation Models](https://github.com/AIR-DI/UniAct)
 - [Robo-MUTUAL (ICRA 2025): Robotic Multimodal Task specifications via Unimodal Learning](https://github.com/AIR-DI/Robo_MUTUAL)
 - [H2O+ (ICRA 2025): An Improved Framework for Hybrid Offline-and-Online RL with Dynamics Gaps](https://github.com/AIR-DI/H2Oplus)
