@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms, embodied AI models, and tools/librar
 
 Algorithms:
 
+- [X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://github.com/THU-AIR-DREAM/X-VLA.)
 - [LBP (ICML 2025): Efficient Robotic Policy Learning via Latent Space Backward Planning](https://github.com/AIR-DI/LBP)
 - [UniAct (CVPR 2025): Universal Actions for Enhanced Embodied Foundation Models](https://github.com/AIR-DI/UniAct)
 - [Robo-MUTUAL (ICRA 2025): Robotic Multimodal Task specifications via Unimodal Learning](https://github.com/AIR-DI/Robo_MUTUAL)
