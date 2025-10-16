@@ -5,6 +5,7 @@ Current available offline RL/IL algorithms, embodied AI models, and tools/librar
 
 Algorithms:
 
+- [Flow-Planner (NeurIPS 2025): Flow Matching-Based Autonomous Driving Planning with Advanced Interactive Behavior Modeling](https://github.com/THU-AIR-DREAM/Flow-Planner)
 - [X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment Vision-Language-Action Model](https://github.com/THU-AIR-DREAM/X-VLA.)
 - [LBP (ICML 2025): Efficient Robotic Policy Learning via Latent Space Backward Planning](https://github.com/AIR-DI/LBP)
 - [UniAct (CVPR 2025): Universal Actions for Enhanced Embodied Foundation Models](https://github.com/AIR-DI/UniAct)
